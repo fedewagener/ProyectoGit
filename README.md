@@ -1,2 +1,2 @@
-# ProyectoGit
+# GrupoDeEstudio
 Metodologias Scrum
